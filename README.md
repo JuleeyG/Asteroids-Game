@@ -4,7 +4,7 @@ requires Java`s Abstract Window Toolkit and JavaFX GUI libraries to implement.
 
 
 # Setup Instructions
-1. Download and store AsteroidTest folder onto your computer`s home directory. 
+1. Download and store AsteroidTest folder onto your computer`s home directory. The game will not operate without all jar files. 
 2. Navigate to the AsteroidGame jar file from command line.
 3. use command for window`s command prompt: Java -jar AsteroidGame.jar (number of desired asteroids)
    ex: Java -jar AsteroidGame.jar 10
