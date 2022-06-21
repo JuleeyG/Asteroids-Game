@@ -1,4 +1,4 @@
-# Asteroids-Game
+# Asteroids Game
 Small game that uses event handling to avoid multiple obstacles, 
 requires Java`s Abstract Window Toolkit and JavaFX GUI libraries to implement.
 
