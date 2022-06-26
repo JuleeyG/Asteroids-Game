@@ -2,13 +2,16 @@
 Small game that uses event handling to avoid multiple obstacles, 
 requires Java`s Abstract Window Toolkit and JavaFX GUI libraries to implement.
 
+![asteroidgame](https://user-images.githubusercontent.com/36057651/175826420-94474a48-7864-4f9f-b97d-0ee908fa7f69.PNG)
+
 
 # Setup Instructions
 1. Download and store AsteroidTest folder onto your computer`s home directory. The game will not operate without all jar files. 
-2. Navigate to the AsteroidGame jar file from command line.
-3. use command for window`s command prompt: Java -jar AsteroidGame.jar (number of desired asteroids)
+2. Navigate to the AndroidTest folder using the command line.
+3. Inside that folder run this command: Java -jar AsteroidGame.jar (number of desired asteroids)
    ex: Java -jar AsteroidGame.jar 10
-   
+   ![asteroidcmd](https://user-images.githubusercontent.com/36057651/175825861-20045f4f-81ba-4567-a369-a0b145e39a99.PNG)
+
    - Game can also be set up in an IDE
    
 4. GUI will open to play the game
