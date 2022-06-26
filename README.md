@@ -17,7 +17,7 @@ requires Java`s Abstract Window Toolkit and JavaFX GUI libraries to implement.
 4. GUI will open to play the game
 
 
-# How-To-Play
+# How to Play
 •	"Start New Game" button begins new game 
 •	Right, left, and up arrow keys control the rocket's rotation and forward motion.
 •	Pressing spacebar will launch a missile and generate a sound.
