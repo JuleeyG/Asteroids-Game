@@ -22,5 +22,5 @@ requires Java`s Abstract Window Toolkit and JavaFX GUI libraries to implement.
 •	Right, left, and up arrow keys control the rocket's rotation and forward motion.
 •	Pressing spacebar will launch a missile and generate a sound.
 •	50 points are added to the score when an asteroid is hit. 
-• The asteroid reappears along the boundary of the playing area at a random location according to its direction of motion. 
-• Game ends when an asteroid hits the rocket (Game has to formal "Game Over" ending)
+•  Asteroids respawn along the boundary of the playing area at a random location according to the rocket's direction of motion. 
+•  Game ends when an asteroid hits the rocket (Game has no formal "Game Over" ending)
