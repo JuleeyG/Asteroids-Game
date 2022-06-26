@@ -9,7 +9,7 @@ requires Java`s Abstract Window Toolkit and JavaFX GUI libraries to implement.
 1. Download and store AsteroidTest folder onto your computer`s home directory. The game will not operate without all jar files. 
 2. Navigate to the AndroidTest folder using the command line.
 3. Inside that folder run this command: Java -jar AsteroidGame.jar (number of desired asteroids)
-   ex: Java -jar AsteroidGame.jar 10
+   - ex: Java -jar AsteroidGame.jar 10
    ![asteroidcmd](https://user-images.githubusercontent.com/36057651/175825861-20045f4f-81ba-4567-a369-a0b145e39a99.PNG)
 
    - Game can also be set up in an IDE
